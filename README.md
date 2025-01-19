@@ -96,7 +96,7 @@ The data is queried and processed using SQL Server Management Studio (SSMS).
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/hacksum/Virus-Impact-Analysis.git
+   git clone https://github.com/vsumitwork/Virus-Impact-Analysis.git
    ```
 2. Open the SQL file (`COVID Portfolio Project - Data Exploration.sql`) in SSMS.
 3. Load the `CovidDeaths.xlsx` and `CovidVaccinations.xlsx` datasets into your database.
